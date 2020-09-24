@@ -3,6 +3,19 @@ this is a document for noting the studying and the trace about the telecommunict
 
 ## Over see
 
+## Interesting topic or key words
+* precoding
+    * dirty paper precoding
+* optimize
+    * SVD
+    * k-mean
+    * mmse
+* beamforming
+* Multi-user MIMO
+* channel state information
+* Antenna on Display
+* Packet detection information
+
 ## Error Contral Coding
 which as know as ECC.
 * reasearch areas  
